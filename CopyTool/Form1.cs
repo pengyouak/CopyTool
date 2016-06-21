@@ -32,6 +32,8 @@ namespace CopyTool
             {
                 foreach (string path in dirList)
                 {
+                    if (path.Length <= 0)
+                        continue;
                     var dir = new System.IO.DirectoryInfo(path.Substring(0, path.LastIndexOf("\\") + 1));
                     if (!System.IO.Directory.Exists(dir.FullName))
                     {
@@ -76,14 +78,35 @@ namespace CopyTool
             //MessageBox.Show("复制完成");
         }
 
-        private void ReadInfo()
+        private void ReadInfo(string strPath="")
         {
-            if(!System.IO.File.Exists(System.IO.Directory.GetCurrentDirectory()+ "\\CopyConfig.cfg"))
-                return;
+            string path = "";
+            if (string.IsNullOrEmpty(strPath))
+            {
+                if (System.IO.Directory.GetDirectories(System.IO.Directory.GetCurrentDirectory() + "\\config").Length <= 0)
+                {
+                    cboConfig.Items.Add("Default");
+                    cboConfig.SelectedIndex = 0;
+                    path = System.IO.Directory.GetCurrentDirectory() + "\\config\\Default\\CopyConfig.cfg";
+                }
+                else
+                {
+                    var dirs = System.IO.Directory.GetDirectories(System.IO.Directory.GetCurrentDirectory() + "\\config");
+                    foreach (string dir in dirs)
+                    {
+                        var tmp = new System.IO.DirectoryInfo(dir);
+                        cboConfig.Items.Add(tmp.Name);
+                    }
+                    cboConfig.SelectedIndex = 0;
+                    path = System.IO.Directory.GetCurrentDirectory() + "\\config\\" + cboConfig.Text + "\\CopyConfig.cfg";
+                }
+            }
+            else
+                path = System.IO.Directory.GetCurrentDirectory() + "\\config\\" + strPath + "\\CopyConfig.cfg";
             try
             {
                 System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [读取配置]}");
-                var tmp = System.IO.File.ReadAllLines(System.IO.Directory.GetCurrentDirectory() + "\\CopyConfig.cfg", Encoding.UTF8);
+                var tmp = System.IO.File.ReadAllLines(path, Encoding.UTF8);
                 txtSourceDirs.Lines = tmp.Skip(3).ToArray();
                 txtDir.Text = tmp[1];
             }
@@ -104,7 +127,13 @@ namespace CopyTool
                 list.Add(txtDir.Text);
                 list.Add("源目录");
                 list.AddRange(txtSourceDirs.Lines);
-                System.IO.File.WriteAllLines(System.IO.Directory.GetCurrentDirectory() + "\\CopyConfig.cfg", list.ToArray(), Encoding.UTF8);
+                if (cboConfig.Text.Trim().Length == 0)
+                    cboConfig.Text = "Default";
+                if (!System.IO.Directory.Exists(System.IO.Directory.GetCurrentDirectory() + "\\config\\" + cboConfig.Text.Trim() + "\\"))
+                {
+                    System.IO.Directory.CreateDirectory(System.IO.Directory.GetCurrentDirectory() + "\\config\\" + cboConfig.Text.Trim() + "\\");
+                }
+                System.IO.File.WriteAllLines(System.IO.Directory.GetCurrentDirectory() + "\\config\\"+(cboConfig.Text.Trim().Length == 0?"Default":cboConfig.Text)+"\\CopyConfig.cfg", list.ToArray(), Encoding.UTF8);
             }
             catch (Exception ex)
             {
@@ -195,6 +224,11 @@ namespace CopyTool
         private void Form1_Load(object sender, EventArgs e)
         {
             ReadInfo();
+        }
+
+        private void cboConfig_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ReadInfo(cboConfig.Text);
         }
     }
 

@@ -35,6 +35,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtDir = new System.Windows.Forms.TextBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.cboConfig = new System.Windows.Forms.ComboBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnCopy
@@ -97,11 +99,33 @@
             this.progressBar1.Size = new System.Drawing.Size(562, 10);
             this.progressBar1.TabIndex = 5;
             // 
+            // cboConfig
+            // 
+            this.cboConfig.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.cboConfig.FormattingEnabled = true;
+            this.cboConfig.Location = new System.Drawing.Point(85, 224);
+            this.cboConfig.Name = "cboConfig";
+            this.cboConfig.Size = new System.Drawing.Size(278, 20);
+            this.cboConfig.TabIndex = 6;
+            this.cboConfig.SelectedIndexChanged += new System.EventHandler(this.cboConfig_SelectedIndexChanged);
+            // 
+            // label3
+            // 
+            this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(26, 227);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(53, 12);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "配置名称";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(659, 259);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.cboConfig);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.txtDir);
             this.Controls.Add(this.label2);
@@ -125,6 +149,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtDir;
         private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.ComboBox cboConfig;
+        private System.Windows.Forms.Label label3;
     }
 }
 

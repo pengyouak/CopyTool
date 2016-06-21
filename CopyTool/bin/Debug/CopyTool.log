@@ -1,0 +1,31 @@
+2016/6/21 23:01:00: [保存配置]}
+2016/6/21 23:01:00: [保存配置异常] 未能找到路径“E:\编程\个人小程序\CopyTool\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”的一部分。
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\ExecAction.exe, 复制到C:\Users\Administrator\Desktop\\ExecAction.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\Fiddler.exe, 复制到C:\Users\Administrator\Desktop\\Fiddler.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\ForceCPU.exe, 复制到C:\Users\Administrator\Desktop\\ForceCPU.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\makecert.exe, 复制到C:\Users\Administrator\Desktop\\makecert.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\TrustCert.exe, 复制到C:\Users\Administrator\Desktop\\TrustCert.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\uninst.exe, 复制到C:\Users\Administrator\Desktop\\uninst.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\UpdateFiddler.exe, 复制到C:\Users\Administrator\Desktop\\UpdateFiddler.exe
+2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\UpdateFiddler2.exe, 复制到C:\Users\Administrator\Desktop\\UpdateFiddler2.exe
+2016/6/21 23:01:00: 复制完成, 共复制文件8个
+/************************************************************************************/
+
+2016/6/21 23:06:18: [保存配置]}
+2016/6/21 23:06:18: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS Disk Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS Disk Benchmark.resources.dll
+2016/6/21 23:06:18: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS SSD Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS SSD Benchmark.resources.dll
+2016/6/21 23:06:18: 复制完成, 共复制文件2个
+/************************************************************************************/
+
+2016/6/21 23:07:11: [读取配置]}
+2016/6/21 23:07:28: [保存配置]}
+2016/6/21 23:07:28: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS Disk Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS Disk Benchmark.resources.dll
+2016/6/21 23:07:28: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS SSD Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS SSD Benchmark.resources.dll
+2016/6/21 23:07:28: 复制完成, 共复制文件2个
+/************************************************************************************/
+
+2016/6/21 23:07:36: [读取配置]}
+2016/6/21 23:09:57: [读取配置]}
+2016/6/21 23:09:57: [读取配置]}
+2016/6/21 23:09:59: [读取配置]}
+2016/6/21 23:10:01: [读取配置]}
