@@ -83,6 +83,10 @@ namespace CopyTool
             string path = "";
             if (string.IsNullOrEmpty(strPath))
             {
+                if (!System.IO.Directory.Exists(System.IO.Directory.GetCurrentDirectory() + "\\config\\" ))
+                {
+                    System.IO.Directory.CreateDirectory(System.IO.Directory.GetCurrentDirectory() + "\\config\\");
+                }
                 if (System.IO.Directory.GetDirectories(System.IO.Directory.GetCurrentDirectory() + "\\config").Length <= 0)
                 {
                     cboConfig.Items.Add("Default");
@@ -103,6 +107,10 @@ namespace CopyTool
             }
             else
                 path = System.IO.Directory.GetCurrentDirectory() + "\\config\\" + strPath + "\\CopyConfig.cfg";
+            if (!System.IO.Directory.Exists(System.IO.Directory.GetCurrentDirectory() + "\\config\\"+ strPath + "\\"))
+            {
+                System.IO.Directory.CreateDirectory(System.IO.Directory.GetCurrentDirectory() + "\\config\\"+ strPath + "\\");
+            }
             try
             {
                 System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [读取配置]}");
