@@ -113,7 +113,7 @@ namespace CopyTool
             }
             try
             {
-                System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [读取配置]}");
+                System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [读取配置]");
                 var tmp = System.IO.File.ReadAllLines(path, Encoding.UTF8);
                 txtSourceDirs.Lines = tmp.Skip(3).ToArray();
                 txtDir.Text = tmp[1];
@@ -129,7 +129,7 @@ namespace CopyTool
         {
             try
             {
-                System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [保存配置]}");
+                System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [保存配置]");
                 var list = new List<string>();
                 list.Add("目标目录");
                 list.Add(txtDir.Text);
@@ -210,6 +210,8 @@ namespace CopyTool
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件异常] {0}\r\n来自源目录{1}\r\n目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                         }
+                        else
+                            System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]));
                     }
                 }
                 lock (_lock)
