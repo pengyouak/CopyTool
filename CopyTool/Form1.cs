@@ -61,7 +61,7 @@ namespace CopyTool
             }
 
             SaveInfo();
-            btnCopy.Text = "停止复制(&S)";
+            //btnCopy.Text = "停止复制(&S)";
             progressBar1.Minimum = 0;
             progressBar1.Value = 0;
             progressBar1.Maximum = dirList.Count;
