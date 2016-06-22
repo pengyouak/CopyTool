@@ -37,6 +37,7 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.cboConfig = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnOpenDir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCopy
@@ -87,7 +88,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtDir.Location = new System.Drawing.Point(85, 198);
             this.txtDir.Name = "txtDir";
-            this.txtDir.Size = new System.Drawing.Size(562, 21);
+            this.txtDir.Size = new System.Drawing.Size(482, 21);
             this.txtDir.TabIndex = 4;
             // 
             // progressBar1
@@ -119,11 +120,23 @@
             this.label3.TabIndex = 7;
             this.label3.Text = "配置名称";
             // 
+            // btnOpenDir
+            // 
+            this.btnOpenDir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnOpenDir.Location = new System.Drawing.Point(572, 197);
+            this.btnOpenDir.Name = "btnOpenDir";
+            this.btnOpenDir.Size = new System.Drawing.Size(75, 23);
+            this.btnOpenDir.TabIndex = 8;
+            this.btnOpenDir.Text = "打开目录";
+            this.btnOpenDir.UseVisualStyleBackColor = true;
+            this.btnOpenDir.Click += new System.EventHandler(this.btnOpenDir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(659, 259);
+            this.Controls.Add(this.btnOpenDir);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.cboConfig);
             this.Controls.Add(this.progressBar1);
@@ -152,6 +165,7 @@
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.ComboBox cboConfig;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnOpenDir;
     }
 }
 

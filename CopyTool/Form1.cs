@@ -240,6 +240,16 @@ namespace CopyTool
         {
             ReadInfo(cboConfig.Text);
         }
+
+        private void btnOpenDir_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (System.IO.Directory.Exists(txtDir.Text))
+                    System.Diagnostics.Process.Start(txtDir.Text);
+            }
+            catch { }
+        }
     }
 
     public class CopyTaskParam
