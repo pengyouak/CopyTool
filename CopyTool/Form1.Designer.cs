@@ -46,9 +46,9 @@
             // btnCopy
             // 
             this.btnCopy.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCopy.Location = new System.Drawing.Point(551, 212);
+            this.btnCopy.Location = new System.Drawing.Point(538, 212);
             this.btnCopy.Name = "btnCopy";
-            this.btnCopy.Size = new System.Drawing.Size(96, 23);
+            this.btnCopy.Size = new System.Drawing.Size(109, 23);
             this.btnCopy.TabIndex = 0;
             this.btnCopy.Text = "开始复制(&V)";
             this.btnCopy.UseVisualStyleBackColor = true;
@@ -91,7 +91,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtDir.Location = new System.Drawing.Point(85, 186);
             this.txtDir.Name = "txtDir";
-            this.txtDir.Size = new System.Drawing.Size(460, 21);
+            this.txtDir.Size = new System.Drawing.Size(447, 21);
             this.txtDir.TabIndex = 4;
             // 
             // progressBar1
@@ -126,9 +126,9 @@
             // btnOpenDir
             // 
             this.btnOpenDir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnOpenDir.Location = new System.Drawing.Point(551, 185);
+            this.btnOpenDir.Location = new System.Drawing.Point(538, 185);
             this.btnOpenDir.Name = "btnOpenDir";
-            this.btnOpenDir.Size = new System.Drawing.Size(96, 23);
+            this.btnOpenDir.Size = new System.Drawing.Size(109, 23);
             this.btnOpenDir.TabIndex = 8;
             this.btnOpenDir.Text = "打开目录(&O)";
             this.btnOpenDir.UseVisualStyleBackColor = true;
