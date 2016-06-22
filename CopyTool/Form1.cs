@@ -22,7 +22,7 @@ namespace CopyTool
 
         private void btnCopy_Click(object sender, EventArgs e)
         {
-            if (btnCopy.Text == "停止复制")
+            if (btnCopy.Text == "停止复制(&S)")
             {
                 if (_cts != null)
                     _cts.Cancel();
@@ -61,7 +61,7 @@ namespace CopyTool
             }
 
             SaveInfo();
-            btnCopy.Text = "停止复制";
+            btnCopy.Text = "停止复制(&S)";
             progressBar1.Minimum = 0;
             progressBar1.Value = 0;
             progressBar1.Maximum = dirList.Count;
@@ -220,7 +220,7 @@ namespace CopyTool
                 {
                     progressBar1.Invoke(new Action(() => { 
                         progressBar1.Value += 1;
-                        btnCopy.Invoke(new Action(() => { if (progressBar1.Value == progressBar1.Maximum || token.IsCancellationRequested)btnCopy.Text = "开始复制"; }));
+                        btnCopy.Invoke(new Action(() => { if (progressBar1.Value == progressBar1.Maximum || token.IsCancellationRequested)btnCopy.Text = "开始复制(&V)"; }));
                         if (progressBar1.Value == progressBar1.Maximum||token.IsCancellationRequested) 
                         {
                             UpdateStatus("");
