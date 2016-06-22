@@ -223,10 +223,10 @@ namespace CopyTool
                         btnCopy.Invoke(new Action(() => { if (progressBar1.Value == progressBar1.Maximum || token.IsCancellationRequested)btnCopy.Text = "开始复制"; }));
                         if (progressBar1.Value == progressBar1.Maximum||token.IsCancellationRequested) 
                         {
+                            UpdateStatus("");
                             System.Diagnostics.Debug.WriteLine(DateTime.Now + string.Format(": 复制完成, 共复制文件{0}个\r\n/************************************************************************************/\r\n",count));
                             MessageBox.Show("复制完成");
                             progressBar1.Value = 0;
-                            UpdateStatus("");
                         } 
                     }));
                    
