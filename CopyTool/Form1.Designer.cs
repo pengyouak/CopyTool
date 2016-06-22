@@ -38,12 +38,15 @@
             this.cboConfig = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnOpenDir = new System.Windows.Forms.Button();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnCopy
             // 
             this.btnCopy.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnCopy.Location = new System.Drawing.Point(572, 224);
+            this.btnCopy.Location = new System.Drawing.Point(572, 212);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(75, 23);
             this.btnCopy.TabIndex = 0;
@@ -69,14 +72,14 @@
             this.txtSourceDirs.Multiline = true;
             this.txtSourceDirs.Name = "txtSourceDirs";
             this.txtSourceDirs.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtSourceDirs.Size = new System.Drawing.Size(562, 172);
+            this.txtSourceDirs.Size = new System.Drawing.Size(562, 160);
             this.txtSourceDirs.TabIndex = 2;
             // 
             // label2
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(26, 201);
+            this.label2.Location = new System.Drawing.Point(26, 189);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(53, 12);
             this.label2.TabIndex = 3;
@@ -86,7 +89,7 @@
             // 
             this.txtDir.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtDir.Location = new System.Drawing.Point(85, 198);
+            this.txtDir.Location = new System.Drawing.Point(85, 186);
             this.txtDir.Name = "txtDir";
             this.txtDir.Size = new System.Drawing.Size(482, 21);
             this.txtDir.TabIndex = 4;
@@ -95,7 +98,7 @@
             // 
             this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.progressBar1.Location = new System.Drawing.Point(85, 186);
+            this.progressBar1.Location = new System.Drawing.Point(85, 174);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(562, 10);
             this.progressBar1.TabIndex = 5;
@@ -104,7 +107,7 @@
             // 
             this.cboConfig.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.cboConfig.FormattingEnabled = true;
-            this.cboConfig.Location = new System.Drawing.Point(85, 224);
+            this.cboConfig.Location = new System.Drawing.Point(85, 212);
             this.cboConfig.Name = "cboConfig";
             this.cboConfig.Size = new System.Drawing.Size(278, 20);
             this.cboConfig.TabIndex = 6;
@@ -114,7 +117,7 @@
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(26, 227);
+            this.label3.Location = new System.Drawing.Point(26, 215);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(53, 12);
             this.label3.TabIndex = 7;
@@ -123,7 +126,7 @@
             // btnOpenDir
             // 
             this.btnOpenDir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnOpenDir.Location = new System.Drawing.Point(572, 197);
+            this.btnOpenDir.Location = new System.Drawing.Point(572, 185);
             this.btnOpenDir.Name = "btnOpenDir";
             this.btnOpenDir.Size = new System.Drawing.Size(75, 23);
             this.btnOpenDir.TabIndex = 8;
@@ -131,11 +134,28 @@
             this.btnOpenDir.UseVisualStyleBackColor = true;
             this.btnOpenDir.Click += new System.EventHandler(this.btnOpenDir_Click);
             // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.lblStatus});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 242);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(659, 22);
+            this.statusStrip1.TabIndex = 9;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(92, 17);
+            this.lblStatus.Text = "                     ";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(659, 259);
+            this.ClientSize = new System.Drawing.Size(659, 264);
+            this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.btnOpenDir);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.cboConfig);
@@ -150,6 +170,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "文件复制工具";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -166,6 +188,8 @@
         private System.Windows.Forms.ComboBox cboConfig;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnOpenDir;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel lblStatus;
     }
 }
 

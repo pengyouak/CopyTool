@@ -181,6 +181,7 @@ namespace CopyTool
                                 System.Threading.Interlocked.Add(ref count, 1);
                                 try
                                 {
+                                    UpdateStatus(string.Format("正在复制 {0}", f));
                                     var tmp = new System.IO.FileInfo(f);
                                     System.IO.File.Copy(f, dir + "\\" + tmp.Name, true);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name));
@@ -202,6 +203,7 @@ namespace CopyTool
                             System.Threading.Interlocked.Add(ref count, 1);
                             try
                             {
+                                UpdateStatus(string.Format("正在复制 {0}", path + tmpFile[i]));
                                 System.IO.File.Copy(path + tmpFile[i], dir + "\\" + tmpFile[i], true);
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
@@ -223,13 +225,20 @@ namespace CopyTool
                         {
                             System.Diagnostics.Debug.WriteLine(DateTime.Now + string.Format(": 复制完成, 共复制文件{0}个\r\n/************************************************************************************/\r\n",count));
                             MessageBox.Show("复制完成");
-                            progressBar1.Value = 0; 
+                            progressBar1.Value = 0;
+                            UpdateStatus("");
                         } 
                     }));
                    
                 }
             });
         }
+
+        private void UpdateStatus(string msg)
+        {
+            statusStrip1.UpdateUI(() => { lblStatus.Text = msg; });
+        }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -257,5 +266,15 @@ namespace CopyTool
         public List<string> FileList { get; set; }
         public string CopyToDir { get; set; }
         public System.Threading.CancellationToken CancelToken { get; set; }
+    }
+}
+public static class ExtentedMethod
+{
+    public static void UpdateUI(this Control control, Action action)
+    {
+        if (control.InvokeRequired)
+            control.Invoke(action);
+        else
+            action();
     }
 }
