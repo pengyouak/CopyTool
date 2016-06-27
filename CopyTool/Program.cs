@@ -13,10 +13,13 @@ namespace CopyTool
         [STAThread]
         static void Main()
         {
-            System.Diagnostics.Trace.Listeners.Clear();
-            System.Diagnostics.Trace.AutoFlush = true;
-            System.Diagnostics.Trace.Listeners.Add(new System.Diagnostics.TextWriterTraceListener("CopyTool.log")); 
-
+            var config = System.Configuration.ConfigurationManager.AppSettings["LOG"];
+            if (config != null && config.ToString() == "1")
+            {
+                System.Diagnostics.Trace.Listeners.Clear();
+                System.Diagnostics.Trace.AutoFlush = true;
+                System.Diagnostics.Trace.Listeners.Add(new System.Diagnostics.TextWriterTraceListener("CopyTool.log"));
+            }
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
