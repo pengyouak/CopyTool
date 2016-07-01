@@ -40,6 +40,8 @@
             this.btnOpenDir = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
+            this.txtFileName = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -130,7 +132,7 @@
             this.btnOpenDir.Name = "btnOpenDir";
             this.btnOpenDir.Size = new System.Drawing.Size(109, 23);
             this.btnOpenDir.TabIndex = 8;
-            this.btnOpenDir.Text = "打开目录(&O)";
+            this.btnOpenDir.Text = "打开(&O)";
             this.btnOpenDir.UseVisualStyleBackColor = true;
             this.btnOpenDir.Click += new System.EventHandler(this.btnOpenDir_Click);
             // 
@@ -150,11 +152,32 @@
             this.lblStatus.Size = new System.Drawing.Size(92, 17);
             this.lblStatus.Text = "                     ";
             // 
+            // txtFileName
+            // 
+            this.txtFileName.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtFileName.Location = new System.Drawing.Point(416, 211);
+            this.txtFileName.Name = "txtFileName";
+            this.txtFileName.Size = new System.Drawing.Size(116, 21);
+            this.txtFileName.TabIndex = 10;
+            // 
+            // label4
+            // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(369, 216);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(41, 12);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "文件名";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(659, 264);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.txtFileName);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.btnOpenDir);
             this.Controls.Add(this.label3);
@@ -190,6 +213,8 @@
         private System.Windows.Forms.Button btnOpenDir;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel lblStatus;
+        private System.Windows.Forms.TextBox txtFileName;
+        private System.Windows.Forms.Label label4;
     }
 }
 

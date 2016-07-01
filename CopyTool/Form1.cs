@@ -115,8 +115,9 @@ namespace CopyTool
             {
                 System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [读取配置]");
                 var tmp = System.IO.File.ReadAllLines(path, Encoding.UTF8);
-                txtSourceDirs.Lines = tmp.Skip(3).ToArray();
-                txtDir.Text = tmp[1];
+                txtSourceDirs.Lines = tmp.Skip(5).ToArray();
+                txtFileName.Text = tmp[1];
+                txtDir.Text = tmp[3];
             }
             catch (Exception ex)
             {
@@ -131,6 +132,8 @@ namespace CopyTool
             {
                 System.Diagnostics.Trace.WriteLine(DateTime.Now + ": [保存配置]");
                 var list = new List<string>();
+                list.Add("执行文件");
+                list.Add(txtFileName.Text);
                 list.Add("目标目录");
                 list.Add(txtDir.Text);
                 list.Add("源目录");
@@ -258,7 +261,10 @@ namespace CopyTool
             try
             {
                 if (System.IO.Directory.Exists(txtDir.Text))
-                    System.Diagnostics.Process.Start(txtDir.Text);
+                    if(System.IO.File.Exists(txtDir.Text.TrimEnd('\\')+"\\"+txtFileName.Text))
+                        System.Diagnostics.Process.Start(txtDir.Text.TrimEnd('\\') + "\\" + txtFileName.Text);
+                    else
+                        System.Diagnostics.Process.Start(txtDir.Text);
             }
             catch { }
         }
