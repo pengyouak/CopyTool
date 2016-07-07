@@ -126,6 +126,11 @@ namespace CopyTool
             }
         }
 
+        private void ShowLog(string msg,int index)
+        {
+            lsvLog.UpdateUI(()=>lsvLog.Items.Add(new ListViewItem(msg, index)));
+        }
+
         private void SaveInfo()
         {
             try
@@ -189,15 +194,18 @@ namespace CopyTool
                                     UpdateStatus(string.Format("正在复制 {0}", f));
                                     var tmp = new System.IO.FileInfo(f);
                                     System.IO.File.Copy(f, dir + "\\" + tmp.Name, true);
+                                    ShowLog(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name),1);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name));
                                 }
                                 catch (Exception ex)
                                 {
+                                    ShowLog(DateTime.Now + string.Format(": [文件异常] {0}, 来自{1}", ex.Message, f),2);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件异常] {0}, 来自{1}", ex.Message, f));
                                 }
                             }
                         }
                         catch (Exception ex){
+                            ShowLog(DateTime.Now + string.Format(": [目录异常] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]),2);
                             System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [目录异常] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]));
                         }
                     }
@@ -210,15 +218,20 @@ namespace CopyTool
                             {
                                 UpdateStatus(string.Format("正在复制 {0}", path + tmpFile[i]));
                                 System.IO.File.Copy(path + tmpFile[i], dir + "\\" + tmpFile[i], true);
+                                ShowLog(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]),1);
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                             catch (Exception ex)
                             {
+                                ShowLog(DateTime.Now + string.Format(": [文件异常] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]),2);
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件异常] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                         }
                         else
+                        {
+                            ShowLog(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]),0);
                             System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]));
+                        }
                     }
                 }
                 lock (_lock)
@@ -230,6 +243,7 @@ namespace CopyTool
                         {
                             stopwatch.Stop();
                             UpdateStatus("");
+                            ShowLog(DateTime.Now + string.Format(": 复制完成, 共复制文件 {0} 个，耗时 {1}", count, stopwatch.Elapsed.Duration()),1);
                             System.Diagnostics.Debug.WriteLine(DateTime.Now + string.Format(": 复制完成, 共复制文件 {0} 个，耗时 {1}\r\n/************************************************************************************/\r\n",count,stopwatch.Elapsed.Duration()));
                             MessageBox.Show("复制完成");
                             progressBar1.Value = 0;
