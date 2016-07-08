@@ -225,6 +225,7 @@
             this.lsvLog.TabIndex = 0;
             this.lsvLog.UseCompatibleStateImageBehavior = false;
             this.lsvLog.View = System.Windows.Forms.View.Details;
+            this.lsvLog.DoubleClick += new System.EventHandler(this.lsvLog_DoubleClick);
             // 
             // columnHeader1
             // 

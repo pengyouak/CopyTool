@@ -126,13 +126,14 @@ namespace CopyTool
             }
         }
 
-        private void ShowLog(string msg,int index)
+        private void ShowLog(string msg,int index,string path="")
         {
-            lsvLog.UpdateUI(()=>lsvLog.Items.Insert(0,new ListViewItem(msg)
+            lsvLog.UpdateUI(() => lsvLog.Items.Insert(0, new ListViewItem(msg)
             {
-                ImageIndex =index,
-                BackColor = index == 2?Color.DarkRed:Color.DarkGreen,
-                ForeColor=Color.LightGray
+                ImageIndex = index,
+                BackColor = index == 2 ? Color.DarkRed : Color.DarkGreen,
+                ForeColor = Color.LightGray,
+                Tag = path.Length == 0 ? null : path
             }));
         }
 
@@ -206,7 +207,7 @@ namespace CopyTool
                                 }
                                 catch (Exception ex)
                                 {
-                                    ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f),2);
+                                    ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f),2, dir);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f));
                                 }
                             }
@@ -230,7 +231,7 @@ namespace CopyTool
                             }
                             catch (Exception ex)
                             {
-                                ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]),2);
+                                ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]),2, path);
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                         }
@@ -286,6 +287,19 @@ namespace CopyTool
                         System.Diagnostics.Process.Start(txtDir.Text.TrimEnd('\\') + "\\" + txtFileName.Text);
                     else
                         System.Diagnostics.Process.Start(txtDir.Text);
+            }
+            catch { }
+        }
+
+        private void lsvLog_DoubleClick(object sender, EventArgs e)
+        {
+            if (lsvLog.SelectedItems.Count == 0)
+                return;
+            if (lsvLog.SelectedItems[0].Tag.ToString().Length == 0)
+                return;
+            try
+            {
+                System.Diagnostics.Process.Start(lsvLog.SelectedItems[0].Tag.ToString());
             }
             catch { }
         }
