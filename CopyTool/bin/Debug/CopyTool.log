@@ -1,47 +1,1329 @@
-2016/6/21 23:01:00: [保存配置]}
-2016/6/21 23:01:00: [保存配置异常] 未能找到路径“E:\编程\个人小程序\CopyTool\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”的一部分。
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\ExecAction.exe, 复制到C:\Users\Administrator\Desktop\\ExecAction.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\Fiddler.exe, 复制到C:\Users\Administrator\Desktop\\Fiddler.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\ForceCPU.exe, 复制到C:\Users\Administrator\Desktop\\ForceCPU.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\makecert.exe, 复制到C:\Users\Administrator\Desktop\\makecert.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\TrustCert.exe, 复制到C:\Users\Administrator\Desktop\\TrustCert.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\uninst.exe, 复制到C:\Users\Administrator\Desktop\\uninst.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\UpdateFiddler.exe, 复制到C:\Users\Administrator\Desktop\\UpdateFiddler.exe
-2016/6/21 23:01:00: [按扩展名] 从文件D:\Program Files (x86)\Fiddler2\UpdateFiddler2.exe, 复制到C:\Users\Administrator\Desktop\\UpdateFiddler2.exe
-2016/6/21 23:01:00: 复制完成, 共复制文件8个
+2016/6/27 18:01:45: [读取配置]
+2016/6/27 18:01:45: [读取配置]
+2016/6/27 18:01:47: [读取配置]
+2016/6/27 18:01:58: [保存配置]
+2016/6/27 18:01:58: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:01:59: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:02:17: [保存配置]
+2016/6/27 18:02:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:02:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:02:32: [读取配置]
+2016/6/27 18:02:32: [读取配置]
+2016/6/27 18:02:35: [读取配置]
+2016/6/27 18:02:36: [保存配置]
+2016/6/27 18:02:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:02:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:03:34: [保存配置]
+2016/6/27 18:03:34: [文件不存在] E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll2
+2016/6/27 18:03:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:03:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:03:34: 复制完成, 共复制文件 2 个，耗时 00:00:00.0140614
 /************************************************************************************/
 
-2016/6/21 23:06:18: [保存配置]}
-2016/6/21 23:06:18: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS Disk Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS Disk Benchmark.resources.dll
-2016/6/21 23:06:18: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS SSD Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS SSD Benchmark.resources.dll
-2016/6/21 23:06:18: 复制完成, 共复制文件2个
+2016/6/27 18:03:40: [保存配置]
+2016/6/27 18:03:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:03:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:03:40: 复制完成, 共复制文件 2 个，耗时 00:00:00.0147769
 /************************************************************************************/
 
-2016/6/21 23:07:11: [读取配置]}
-2016/6/21 23:07:28: [保存配置]}
-2016/6/21 23:07:28: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS Disk Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS Disk Benchmark.resources.dll
-2016/6/21 23:07:28: [按扩展名] 从文件C:\Users\Administrator\Desktop\SSD\en-US\AS SSD Benchmark.resources.dll, 复制到C:\Users\Administrator\Desktop\\AS SSD Benchmark.resources.dll
-2016/6/21 23:07:28: 复制完成, 共复制文件2个
+2016/6/27 18:03:45: [保存配置]
+2016/6/27 18:03:45: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/27 18:03:45: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/27 18:03:45: 复制完成, 共复制文件 2 个，耗时 00:00:00.0137830
 /************************************************************************************/
 
-2016/6/21 23:07:36: [读取配置]}
-2016/6/21 23:09:57: [读取配置]}
-2016/6/21 23:09:57: [读取配置]}
-2016/6/21 23:09:59: [读取配置]}
-2016/6/21 23:10:01: [读取配置]}
-2016/6/22 9:07:06: [读取配置]}
-2016/6/22 9:07:06: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:07:06: [读取配置]}
-2016/6/22 9:07:06: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:07:33: [读取配置]}
-2016/6/22 9:07:33: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:07:33: [读取配置]}
-2016/6/22 9:07:33: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:35:33: [读取配置]}
-2016/6/22 9:35:33: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:35:33: [读取配置]}
-2016/6/22 9:35:33: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:36:03: [读取配置]}
-2016/6/22 9:36:03: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
-2016/6/22 9:36:03: [读取配置]}
-2016/6/22 9:36:03: [读取配置异常] 未能找到文件“E:\CopyTool\CopyTool.git\trunk\CopyTool\bin\Debug\config\Default\CopyConfig.cfg”。
+2016/6/28 8:36:17: [读取配置]
+2016/6/28 8:36:17: [读取配置]
+2016/6/28 8:36:20: [读取配置]
+2016/6/28 8:36:21: [保存配置]
+2016/6/28 8:36:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 8:36:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 8:36:21: 复制完成, 共复制文件 2 个，耗时 00:00:00.3266503
+/************************************************************************************/
+
+2016/6/28 8:36:23: [保存配置]
+2016/6/28 8:36:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 8:36:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 8:36:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0130192
+/************************************************************************************/
+
+2016/6/28 9:13:25: [保存配置]
+2016/6/28 9:13:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:13:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:13:25: 复制完成, 共复制文件 2 个，耗时 00:00:00.0099560
+/************************************************************************************/
+
+2016/6/28 9:13:27: [保存配置]
+2016/6/28 9:13:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:13:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:13:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0149881
+/************************************************************************************/
+
+2016/6/28 9:13:28: [保存配置]
+2016/6/28 9:13:28: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:13:28: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:13:28: 复制完成, 共复制文件 2 个，耗时 00:00:00.0118419
+/************************************************************************************/
+
+2016/6/28 9:15:51: [保存配置]
+2016/6/28 9:15:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:15:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:15:51: 复制完成, 共复制文件 2 个，耗时 00:00:00.0191530
+/************************************************************************************/
+
+2016/6/28 9:15:52: [保存配置]
+2016/6/28 9:15:52: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:15:52: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:15:52: 复制完成, 共复制文件 2 个，耗时 00:00:00.0131073
+/************************************************************************************/
+
+2016/6/28 9:15:53: [保存配置]
+2016/6/28 9:15:53: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:15:53: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:15:53: 复制完成, 共复制文件 2 个，耗时 00:00:00.0133276
+/************************************************************************************/
+
+2016/6/28 9:15:54: [保存配置]
+2016/6/28 9:15:54: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:15:54: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:15:54: 复制完成, 共复制文件 2 个，耗时 00:00:00.0122007
+/************************************************************************************/
+
+2016/6/28 9:21:35: [保存配置]
+2016/6/28 9:21:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:21:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:21:35: 复制完成, 共复制文件 2 个，耗时 00:00:00.0161081
+/************************************************************************************/
+
+2016/6/28 9:21:36: [保存配置]
+2016/6/28 9:21:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:21:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:21:36: 复制完成, 共复制文件 2 个，耗时 00:00:00.0717467
+/************************************************************************************/
+
+2016/6/28 9:21:37: [保存配置]
+2016/6/28 9:21:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:21:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:21:37: 复制完成, 共复制文件 2 个，耗时 00:00:00.0147461
+/************************************************************************************/
+
+2016/6/28 9:21:38: [保存配置]
+2016/6/28 9:21:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:21:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:21:38: 复制完成, 共复制文件 2 个，耗时 00:00:00.0257229
+/************************************************************************************/
+
+2016/6/28 9:24:31: [保存配置]
+2016/6/28 9:24:31: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:24:31: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:24:31: 复制完成, 共复制文件 2 个，耗时 00:00:00.0216021
+/************************************************************************************/
+
+2016/6/28 9:24:32: [保存配置]
+2016/6/28 9:24:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:24:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:24:32: 复制完成, 共复制文件 2 个，耗时 00:00:00.0105560
+/************************************************************************************/
+
+2016/6/28 9:24:33: [保存配置]
+2016/6/28 9:24:33: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:24:33: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:24:33: 复制完成, 共复制文件 2 个，耗时 00:00:00.0136038
+/************************************************************************************/
+
+2016/6/28 9:24:34: [保存配置]
+2016/6/28 9:24:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:24:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:24:34: 复制完成, 共复制文件 2 个，耗时 00:00:00.0096019
+/************************************************************************************/
+
+2016/6/28 9:27:35: [保存配置]
+2016/6/28 9:27:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:27:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:27:35: 复制完成, 共复制文件 2 个，耗时 00:00:00.0199018
+/************************************************************************************/
+
+2016/6/28 9:27:37: [保存配置]
+2016/6/28 9:27:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:27:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:27:37: 复制完成, 共复制文件 2 个，耗时 00:00:00.0125839
+/************************************************************************************/
+
+2016/6/28 9:27:37: [保存配置]
+2016/6/28 9:27:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:27:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:27:37: 复制完成, 共复制文件 2 个，耗时 00:00:00.0137060
+/************************************************************************************/
+
+2016/6/28 9:32:49: [保存配置]
+2016/6/28 9:32:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:32:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:32:49: 复制完成, 共复制文件 2 个，耗时 00:00:00.0194566
+/************************************************************************************/
+
+2016/6/28 9:32:50: [保存配置]
+2016/6/28 9:32:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:32:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:32:50: 复制完成, 共复制文件 2 个，耗时 00:00:00.0152695
+/************************************************************************************/
+
+2016/6/28 9:32:51: [保存配置]
+2016/6/28 9:32:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:32:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:32:51: 复制完成, 共复制文件 2 个，耗时 00:00:00.0139831
+/************************************************************************************/
+
+2016/6/28 9:34:16: [保存配置]
+2016/6/28 9:34:16: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:34:16: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:34:16: 复制完成, 共复制文件 2 个，耗时 00:00:00.0156394
+/************************************************************************************/
+
+2016/6/28 9:35:56: [保存配置]
+2016/6/28 9:35:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:35:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:35:56: 复制完成, 共复制文件 2 个，耗时 00:00:00.0167821
+/************************************************************************************/
+
+2016/6/28 9:37:05: [保存配置]
+2016/6/28 9:37:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:37:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:37:05: 复制完成, 共复制文件 2 个，耗时 00:00:00.0160769
+/************************************************************************************/
+
+2016/6/28 9:37:46: [保存配置]
+2016/6/28 9:37:46: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:37:46: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:37:46: 复制完成, 共复制文件 2 个，耗时 00:00:00.0181591
+/************************************************************************************/
+
+2016/6/28 9:40:40: [保存配置]
+2016/6/28 9:40:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:40:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:40:40: 复制完成, 共复制文件 2 个，耗时 00:00:00.0138891
+/************************************************************************************/
+
+2016/6/28 9:42:30: [保存配置]
+2016/6/28 9:42:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:42:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:42:30: 复制完成, 共复制文件 2 个，耗时 00:00:00.0143180
+/************************************************************************************/
+
+2016/6/28 9:43:51: [保存配置]
+2016/6/28 9:43:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:43:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:43:51: 复制完成, 共复制文件 2 个，耗时 00:00:00.0148102
+/************************************************************************************/
+
+2016/6/28 9:46:10: [保存配置]
+2016/6/28 9:46:10: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:46:10: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:46:10: 复制完成, 共复制文件 2 个，耗时 00:00:00.0075488
+/************************************************************************************/
+
+2016/6/28 9:47:11: [保存配置]
+2016/6/28 9:47:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:47:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:47:11: 复制完成, 共复制文件 2 个，耗时 00:00:00.0114814
+/************************************************************************************/
+
+2016/6/28 9:56:30: [保存配置]
+2016/6/28 9:56:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:56:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:56:30: 复制完成, 共复制文件 2 个，耗时 00:00:00.0217317
+/************************************************************************************/
+
+2016/6/28 9:57:23: [保存配置]
+2016/6/28 9:57:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:57:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:57:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0138463
+/************************************************************************************/
+
+2016/6/28 9:59:29: [保存配置]
+2016/6/28 9:59:29: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 9:59:29: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 9:59:29: 复制完成, 共复制文件 2 个，耗时 00:00:00.0168638
+/************************************************************************************/
+
+2016/6/28 10:01:00: [保存配置]
+2016/6/28 10:01:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 10:01:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 10:01:00: 复制完成, 共复制文件 2 个，耗时 00:00:00.0156869
+/************************************************************************************/
+
+2016/6/28 10:49:56: [保存配置]
+2016/6/28 10:49:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 10:49:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 10:49:56: 复制完成, 共复制文件 2 个，耗时 00:00:00.0276935
+/************************************************************************************/
+
+2016/6/28 10:52:36: [保存配置]
+2016/6/28 10:52:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 10:52:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 10:52:36: 复制完成, 共复制文件 2 个，耗时 00:00:00.0141093
+/************************************************************************************/
+
+2016/6/28 11:00:25: [保存配置]
+2016/6/28 11:00:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:00:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:00:25: 复制完成, 共复制文件 2 个，耗时 00:00:00.0133186
+/************************************************************************************/
+
+2016/6/28 11:01:24: [保存配置]
+2016/6/28 11:01:24: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:01:24: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:01:24: 复制完成, 共复制文件 2 个，耗时 00:00:00.0131963
+/************************************************************************************/
+
+2016/6/28 11:10:24: [保存配置]
+2016/6/28 11:10:24: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:10:24: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:10:24: 复制完成, 共复制文件 2 个，耗时 00:00:00.0178521
+/************************************************************************************/
+
+2016/6/28 11:14:07: [保存配置]
+2016/6/28 11:14:07: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:14:07: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:14:07: 复制完成, 共复制文件 2 个，耗时 00:00:00.0225724
+/************************************************************************************/
+
+2016/6/28 11:14:57: [保存配置]
+2016/6/28 11:14:57: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:14:57: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:14:57: 复制完成, 共复制文件 2 个，耗时 00:00:00.0113407
+/************************************************************************************/
+
+2016/6/28 11:16:34: [保存配置]
+2016/6/28 11:16:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:16:34: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:16:34: 复制完成, 共复制文件 2 个，耗时 00:00:00.0177631
+/************************************************************************************/
+
+2016/6/28 11:17:38: [保存配置]
+2016/6/28 11:17:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:17:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:17:39: 复制完成, 共复制文件 2 个，耗时 00:00:00.0097956
+/************************************************************************************/
+
+2016/6/28 11:25:00: [保存配置]
+2016/6/28 11:25:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:25:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:25:00: 复制完成, 共复制文件 2 个，耗时 00:00:00.0405918
+/************************************************************************************/
+
+2016/6/28 11:35:23: [保存配置]
+2016/6/28 11:35:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:35:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:35:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0060110
+/************************************************************************************/
+
+2016/6/28 11:52:50: [保存配置]
+2016/6/28 11:52:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 11:52:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 11:52:50: 复制完成, 共复制文件 2 个，耗时 00:00:00.0095651
+/************************************************************************************/
+
+2016/6/28 14:52:26: [读取配置]
+2016/6/28 14:52:27: [读取配置]
+2016/6/28 14:52:29: [读取配置]
+2016/6/28 14:52:30: [保存配置]
+2016/6/28 14:52:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 14:52:30: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 14:52:30: 复制完成, 共复制文件 2 个，耗时 00:00:00.0836755
+/************************************************************************************/
+
+2016/6/28 14:54:46: [保存配置]
+2016/6/28 14:54:46: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 14:54:46: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 14:54:46: 复制完成, 共复制文件 2 个，耗时 00:00:00.0071348
+/************************************************************************************/
+
+2016/6/28 15:05:38: [保存配置]
+2016/6/28 15:05:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 15:05:38: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 15:05:38: 复制完成, 共复制文件 2 个，耗时 00:00:00.0090451
+/************************************************************************************/
+
+2016/6/28 15:12:22: [保存配置]
+2016/6/28 15:12:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 15:12:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 15:12:22: 复制完成, 共复制文件 2 个，耗时 00:00:00.0499324
+/************************************************************************************/
+
+2016/6/28 15:16:12: [保存配置]
+2016/6/28 15:16:12: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 15:16:12: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 15:16:12: 复制完成, 共复制文件 2 个，耗时 00:00:00.3918310
+/************************************************************************************/
+
+2016/6/28 15:16:19: [读取配置]
+2016/6/28 15:16:19: [读取配置]
+2016/6/28 15:16:20: [读取配置]
+2016/6/28 15:20:35: [保存配置]
+2016/6/28 15:20:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 15:20:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 15:20:35: 复制完成, 共复制文件 2 个，耗时 00:00:00.1010662
+/************************************************************************************/
+
+2016/6/28 15:20:37: [保存配置]
+2016/6/28 15:20:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 15:20:37: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 15:20:37: 复制完成, 共复制文件 2 个，耗时 00:00:00.0131933
+/************************************************************************************/
+
+2016/6/28 16:18:10: [保存配置]
+2016/6/28 16:18:10: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 16:18:10: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 16:18:10: 复制完成, 共复制文件 2 个，耗时 00:00:00.0507488
+/************************************************************************************/
+
+2016/6/28 17:13:17: [保存配置]
+2016/6/28 17:13:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 17:13:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 17:13:17: 复制完成, 共复制文件 2 个，耗时 00:00:00.0889697
+/************************************************************************************/
+
+2016/6/28 17:16:51: [保存配置]
+2016/6/28 17:16:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/28 17:16:51: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/28 17:16:51: 复制完成, 共复制文件 2 个，耗时 00:00:00.0098482
+/************************************************************************************/
+
+2016/6/30 9:47:38: [读取配置]
+2016/6/30 9:47:38: [读取配置]
+2016/6/30 9:47:40: [读取配置]
+2016/6/30 10:49:49: [保存配置]
+2016/6/30 10:49:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 10:49:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 10:49:49: 复制完成, 共复制文件 2 个，耗时 00:00:00.4156325
+/************************************************************************************/
+
+2016/6/30 11:39:23: [保存配置]
+2016/6/30 11:39:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 11:39:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 11:39:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0205595
+/************************************************************************************/
+
+2016/6/30 11:45:47: [保存配置]
+2016/6/30 11:45:47: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 11:45:47: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 11:45:47: 复制完成, 共复制文件 2 个，耗时 00:00:00.0174039
+/************************************************************************************/
+
+2016/6/30 11:49:27: [保存配置]
+2016/6/30 11:49:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 11:49:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 11:49:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0090673
+/************************************************************************************/
+
+2016/6/30 13:31:27: [保存配置]
+2016/6/30 13:31:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 13:31:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 13:31:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0718485
+/************************************************************************************/
+
+2016/6/30 13:42:41: [保存配置]
+2016/6/30 13:42:41: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 13:42:41: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 13:42:41: 复制完成, 共复制文件 2 个，耗时 00:00:00.0168270
+/************************************************************************************/
+
+2016/6/30 13:42:43: [保存配置]
+2016/6/30 13:42:43: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 13:42:43: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 13:42:43: 复制完成, 共复制文件 2 个，耗时 00:00:00.0154401
+/************************************************************************************/
+
+2016/6/30 14:25:21: [保存配置]
+2016/6/30 14:25:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 14:25:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 14:25:21: 复制完成, 共复制文件 2 个，耗时 00:00:00.0109896
+/************************************************************************************/
+
+2016/6/30 14:25:54: [保存配置]
+2016/6/30 14:25:54: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 14:25:54: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 14:25:54: 复制完成, 共复制文件 2 个，耗时 00:00:00.0167269
+/************************************************************************************/
+
+2016/6/30 17:32:46: [读取配置]
+2016/6/30 17:32:47: [读取配置]
+2016/6/30 17:32:49: [读取配置]
+2016/6/30 17:32:50: [保存配置]
+2016/6/30 17:32:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:32:50: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:32:50: 复制完成, 共复制文件 2 个，耗时 00:00:00.2201494
+/************************************************************************************/
+
+2016/6/30 17:33:55: [保存配置]
+2016/6/30 17:33:55: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:33:55: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:33:55: 复制完成, 共复制文件 2 个，耗时 00:00:00.0227595
+/************************************************************************************/
+
+2016/6/30 17:35:59: [保存配置]
+2016/6/30 17:35:59: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:35:59: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:35:59: 复制完成, 共复制文件 2 个，耗时 00:00:00.0159720
+/************************************************************************************/
+
+2016/6/30 17:36:36: [保存配置]
+2016/6/30 17:36:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:36:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:36:36: 复制完成, 共复制文件 2 个，耗时 00:00:00.0125055
+/************************************************************************************/
+
+2016/6/30 17:38:23: [保存配置]
+2016/6/30 17:38:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:38:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:38:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0219021
+/************************************************************************************/
+
+2016/6/30 17:38:59: [保存配置]
+2016/6/30 17:38:59: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:38:59: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:38:59: 复制完成, 共复制文件 2 个，耗时 00:00:00.0184985
+/************************************************************************************/
+
+2016/6/30 17:39:00: [保存配置]
+2016/6/30 17:39:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:39:00: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:39:00: 复制完成, 共复制文件 2 个，耗时 00:00:00.0061811
+/************************************************************************************/
+
+2016/6/30 17:39:02: [保存配置]
+2016/6/30 17:39:02: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:39:02: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:39:02: 复制完成, 共复制文件 2 个，耗时 00:00:00.1141957
+/************************************************************************************/
+
+2016/6/30 17:40:18: [保存配置]
+2016/6/30 17:40:18: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:40:18: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:40:18: 复制完成, 共复制文件 2 个，耗时 00:00:00.0081213
+/************************************************************************************/
+
+2016/6/30 17:40:20: [保存配置]
+2016/6/30 17:40:20: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:40:20: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:40:20: 复制完成, 共复制文件 2 个，耗时 00:00:00.0141554
+/************************************************************************************/
+
+2016/6/30 17:40:21: [保存配置]
+2016/6/30 17:40:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:40:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:40:21: 复制完成, 共复制文件 2 个，耗时 00:00:00.0165844
+/************************************************************************************/
+
+2016/6/30 17:40:22: [保存配置]
+2016/6/30 17:40:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:40:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:40:22: 复制完成, 共复制文件 2 个，耗时 00:00:00.0095672
+/************************************************************************************/
+
+2016/6/30 17:40:48: [保存配置]
+2016/6/30 17:40:48: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:40:48: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:40:48: 复制完成, 共复制文件 2 个，耗时 00:00:00.0175436
+/************************************************************************************/
+
+2016/6/30 17:43:18: [保存配置]
+2016/6/30 17:43:18: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 17:43:18: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 17:43:18: 复制完成, 共复制文件 2 个，耗时 00:00:00.0217294
+/************************************************************************************/
+
+2016/6/30 18:22:22: [保存配置]
+2016/6/30 18:22:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 18:22:22: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 18:22:22: 复制完成, 共复制文件 2 个，耗时 00:00:00.0170001
+/************************************************************************************/
+
+2016/6/30 18:24:40: [保存配置]
+2016/6/30 18:24:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/6/30 18:24:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/6/30 18:24:40: 复制完成, 共复制文件 2 个，耗时 00:00:00.0180418
+/************************************************************************************/
+
+2016/7/1 9:02:30: [读取配置]
+2016/7/1 9:02:30: [读取配置]
+2016/7/1 9:02:33: [读取配置]
+2016/7/1 9:02:56: [保存配置]
+2016/7/1 9:02:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 9:02:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 9:02:56: 复制完成, 共复制文件 2 个，耗时 00:00:00.3885024
+/************************************************************************************/
+
+2016/7/1 10:06:32: [保存配置]
+2016/7/1 10:06:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 10:06:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 10:06:32: 复制完成, 共复制文件 2 个，耗时 00:00:00.0157019
+/************************************************************************************/
+
+2016/7/1 10:26:11: [保存配置]
+2016/7/1 10:26:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 10:26:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 10:26:11: 复制完成, 共复制文件 2 个，耗时 00:00:00.0177478
+/************************************************************************************/
+
+2016/7/1 10:30:27: [保存配置]
+2016/7/1 10:30:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 10:30:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 10:30:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0495311
+/************************************************************************************/
+
+2016/7/1 12:19:45: [读取配置]
+2016/7/1 12:19:45: [读取配置]
+2016/7/1 12:19:48: [读取配置]
+2016/7/1 12:19:49: [保存配置]
+2016/7/1 12:19:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 12:19:49: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 12:19:49: 复制完成, 共复制文件 2 个，耗时 00:00:00.2609434
+/************************************************************************************/
+
+2016/7/1 13:02:39: [保存配置]
+2016/7/1 13:02:39: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 13:02:39: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 13:02:39: 复制完成, 共复制文件 2 个，耗时 00:00:00.1036756
+/************************************************************************************/
+
+2016/7/1 13:51:36: [保存配置]
+2016/7/1 13:51:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 13:51:36: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 13:51:36: 复制完成, 共复制文件 2 个，耗时 00:00:00.0636370
+/************************************************************************************/
+
+2016/7/1 13:57:19: [读取配置]
+2016/7/1 13:57:19: [读取配置]
+2016/7/1 13:57:24: [读取配置]
+2016/7/1 14:00:26: [读取配置]
+2016/7/1 14:00:26: [读取配置]
+2016/7/1 14:00:29: [读取配置]
+2016/7/1 14:00:32: [读取配置]
+2016/7/1 14:00:34: [读取配置]
+2016/7/1 14:01:12: [读取配置]
+2016/7/1 14:01:12: [读取配置]
+2016/7/1 14:01:16: [读取配置]
+2016/7/1 14:01:19: [读取配置]
+2016/7/1 14:01:46: [读取配置]
+2016/7/1 14:01:46: [读取配置]
+2016/7/1 14:02:56: [读取配置]
+2016/7/1 14:02:56: [读取配置]
+2016/7/1 14:03:43: [读取配置]
+2016/7/1 14:03:43: [读取配置]
+2016/7/1 14:03:44: [保存配置]
+2016/7/1 14:03:44: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:03:44: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:03:44: 复制完成, 共复制文件 2 个，耗时 00:00:00.1292172
+/************************************************************************************/
+
+2016/7/1 14:09:35: [保存配置]
+2016/7/1 14:09:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:09:35: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:09:35: 复制完成, 共复制文件 2 个，耗时 00:00:00.0546838
+/************************************************************************************/
+
+2016/7/1 14:12:44: [保存配置]
+2016/7/1 14:12:44: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:12:44: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:12:44: 复制完成, 共复制文件 2 个，耗时 00:00:00.0136371
+/************************************************************************************/
+
+2016/7/1 14:18:05: [保存配置]
+2016/7/1 14:18:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:18:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:18:05: 复制完成, 共复制文件 2 个，耗时 00:00:00.0127207
+/************************************************************************************/
+
+2016/7/1 14:30:39: [保存配置]
+2016/7/1 14:30:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:30:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:30:40: 复制完成, 共复制文件 2 个，耗时 00:00:00.0140934
+/************************************************************************************/
+
+2016/7/1 14:32:27: [保存配置]
+2016/7/1 14:32:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 14:32:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 14:32:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0125321
+/************************************************************************************/
+
+2016/7/1 17:06:43: [保存配置]
+2016/7/1 17:06:43: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 17:06:43: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 17:06:43: 复制完成, 共复制文件 2 个，耗时 00:00:00.0635980
+/************************************************************************************/
+
+2016/7/1 17:13:17: [保存配置]
+2016/7/1 17:13:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 17:13:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 17:13:17: 复制完成, 共复制文件 2 个，耗时 00:00:00.0563439
+/************************************************************************************/
+
+2016/7/1 17:13:21: [保存配置]
+2016/7/1 17:13:21: [文件不存在] E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll3
+2016/7/1 17:13:21: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 17:13:21: 复制完成, 共复制文件 1 个，耗时 00:00:00.0071386
+/************************************************************************************/
+
+2016/7/1 17:13:25: [保存配置]
+2016/7/1 17:13:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 17:13:25: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 17:13:25: 复制完成, 共复制文件 2 个，耗时 00:00:00.0123063
+/************************************************************************************/
+
+2016/7/1 18:13:31: [保存配置]
+2016/7/1 18:13:31: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:13:31: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:13:31: 复制完成, 共复制文件 2 个，耗时 00:00:00.0614470
+/************************************************************************************/
+
+2016/7/1 18:17:08: [保存配置]
+2016/7/1 18:17:08: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:17:08: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:17:08: 复制完成, 共复制文件 2 个，耗时 00:00:00.0167055
+/************************************************************************************/
+
+2016/7/1 18:20:23: [保存配置]
+2016/7/1 18:20:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:20:23: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:20:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0086773
+/************************************************************************************/
+
+2016/7/1 18:21:40: [保存配置]
+2016/7/1 18:21:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:21:40: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:21:40: 复制完成, 共复制文件 2 个，耗时 00:00:00.0161761
+/************************************************************************************/
+
+2016/7/1 18:21:42: [保存配置]
+2016/7/1 18:21:42: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:21:42: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:21:42: 复制完成, 共复制文件 2 个，耗时 00:00:00.0081564
+/************************************************************************************/
+
+2016/7/1 18:23:28: [保存配置]
+2016/7/1 18:23:28: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/1 18:23:28: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/1 18:23:28: 复制完成, 共复制文件 2 个，耗时 00:00:00.0056727
+/************************************************************************************/
+
+2016/7/4 14:56:12: [读取配置]
+2016/7/4 14:56:12: [读取配置]
+2016/7/4 14:57:11: [保存配置]
+2016/7/4 14:57:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 14:57:11: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 14:57:11: 复制完成, 共复制文件 2 个，耗时 00:00:00.2529062
+/************************************************************************************/
+
+2016/7/4 15:01:33: [保存配置]
+2016/7/4 15:01:33: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:01:33: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:01:33: 复制完成, 共复制文件 2 个，耗时 00:00:00.0126189
+/************************************************************************************/
+
+2016/7/4 15:05:05: [保存配置]
+2016/7/4 15:05:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:05:05: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:05:05: 复制完成, 共复制文件 2 个，耗时 00:00:00.0100539
+/************************************************************************************/
+
+2016/7/4 15:09:26: [保存配置]
+2016/7/4 15:09:26: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:09:26: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:09:26: 复制完成, 共复制文件 2 个，耗时 00:00:00.0164925
+/************************************************************************************/
+
+2016/7/4 15:16:26: [保存配置]
+2016/7/4 15:16:26: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:16:26: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:16:26: 复制完成, 共复制文件 2 个，耗时 00:00:00.0078827
+/************************************************************************************/
+
+2016/7/4 15:28:32: [保存配置]
+2016/7/4 15:28:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:28:32: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:28:32: 复制完成, 共复制文件 2 个，耗时 00:00:00.0139651
+/************************************************************************************/
+
+2016/7/4 15:36:26: [读取配置]
+2016/7/4 15:36:26: [读取配置]
+2016/7/4 15:36:27: [保存配置]
+2016/7/4 15:36:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:36:27: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:36:27: 复制完成, 共复制文件 2 个，耗时 00:00:00.0475365
+/************************************************************************************/
+
+2016/7/4 15:49:13: [保存配置]
+2016/7/4 15:49:13: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:49:13: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:49:13: 复制完成, 共复制文件 2 个，耗时 00:00:00.0179379
+/************************************************************************************/
+
+2016/7/4 15:51:47: [保存配置]
+2016/7/4 15:51:47: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 15:51:47: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 15:51:47: 复制完成, 共复制文件 2 个，耗时 00:00:00.0084305
+/************************************************************************************/
+
+2016/7/4 17:11:42: [保存配置]
+2016/7/4 17:11:42: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 17:11:42: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 17:11:42: 复制完成, 共复制文件 2 个，耗时 00:00:00.0171314
+/************************************************************************************/
+
+2016/7/4 17:13:13: [保存配置]
+2016/7/4 17:13:13: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 17:13:13: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 17:13:13: 复制完成, 共复制文件 2 个，耗时 00:00:00.0109310
+/************************************************************************************/
+
+2016/7/4 17:27:01: [读取配置]
+2016/7/4 17:27:01: [读取配置]
+2016/7/4 17:27:03: [保存配置]
+2016/7/4 17:27:03: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 17:27:03: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 17:27:03: 复制完成, 共复制文件 2 个，耗时 00:00:00.0263014
+/************************************************************************************/
+
+2016/7/4 17:34:13: [保存配置]
+2016/7/4 17:34:13: [文件异常] 文件“E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 目标目录E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 17:34:13: [文件异常] 文件“E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 目标目录E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 17:34:13: 复制完成, 共复制文件 2 个，耗时 00:00:00.0712666
+/************************************************************************************/
+
+2016/7/4 17:34:15: [保存配置]
+2016/7/4 17:34:15: [文件异常] 文件“E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 目标目录E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/4 17:34:15: [文件异常] 文件“E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 目标目录E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/4 17:34:15: 复制完成, 共复制文件 2 个，耗时 00:00:00.0077609
+/************************************************************************************/
+
+2016/7/5 9:36:12: [读取配置]
+2016/7/5 9:36:12: [读取配置]
+2016/7/5 9:37:51: [保存配置]
+2016/7/5 9:37:51: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/5 9:37:51: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\RDUModule\RDUModule\bin\Debug\RDUModule.dll
+2016/7/5 9:37:51: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/5 9:37:51: 复制完成, 共复制文件 1 个，耗时 00:00:00.3985493
+/************************************************************************************/
+
+2016/7/5 9:37:59: [读取配置]
+2016/7/5 9:38:05: [读取配置]
+2016/7/5 9:38:05: [读取配置]
+2016/7/5 9:38:07: [读取配置]
+2016/7/5 10:06:12: [读取配置]
+2016/7/5 10:06:19: [读取配置]
+2016/7/5 18:16:57: [保存配置]
+2016/7/5 18:16:57: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/5 18:16:57: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\RDUModule\RDUModule\bin\Debug\RDUModule.dll
+2016/7/5 18:16:57: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/5 18:16:57: 复制完成, 共复制文件 1 个，耗时 00:00:00.1882032
+/************************************************************************************/
+
+2016/7/5 18:18:34: [保存配置]
+2016/7/5 18:18:34: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/5 18:18:34: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/5 18:18:34: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/5 18:18:34: 复制完成, 共复制文件 2 个，耗时 00:00:00.0077125
+/************************************************************************************/
+
+2016/7/5 18:30:57: [保存配置]
+2016/7/5 18:30:57: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/5 18:30:57: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/5 18:30:57: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/5 18:30:57: 复制完成, 共复制文件 2 个，耗时 00:00:00.0146433
+/************************************************************************************/
+
+2016/7/6 9:22:30: [读取配置]
+2016/7/6 9:22:30: [读取配置]
+2016/7/6 9:44:16: [保存配置]
+2016/7/6 9:44:16: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 9:44:17: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 9:44:17: 复制完成, 共复制文件 2 个，耗时 00:00:00.3418254
+/************************************************************************************/
+
+2016/7/6 10:08:24: [读取配置]
+2016/7/6 10:08:59: [保存配置]
+2016/7/6 10:08:59: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 10:08:59: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 10:08:59: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 10:08:59: 复制完成, 共复制文件 2 个，耗时 00:00:00.1048671
+/************************************************************************************/
+
+2016/7/6 10:11:03: [保存配置]
+2016/7/6 10:11:03: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 10:11:03: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 10:11:03: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 10:11:03: 复制完成, 共复制文件 2 个，耗时 00:00:00.0035165
+/************************************************************************************/
+
+2016/7/6 10:15:09: [保存配置]
+2016/7/6 10:15:09: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 10:15:09: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 10:15:09: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 10:15:09: 复制完成, 共复制文件 2 个，耗时 00:00:00.0105855
+/************************************************************************************/
+
+2016/7/6 10:23:16: [保存配置]
+2016/7/6 10:23:16: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 10:23:16: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 10:23:16: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 10:23:16: 复制完成, 共复制文件 2 个，耗时 00:00:00.0112672
+/************************************************************************************/
+
+2016/7/6 10:32:23: [保存配置]
+2016/7/6 10:32:23: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 10:32:23: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 10:32:23: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 10:32:23: 复制完成, 共复制文件 2 个，耗时 00:00:00.0111359
+/************************************************************************************/
+
+2016/7/6 11:28:10: [保存配置]
+2016/7/6 11:28:10: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 11:28:10: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 11:28:10: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 11:28:10: 复制完成, 共复制文件 2 个，耗时 00:00:00.0377860
+/************************************************************************************/
+
+2016/7/6 14:45:19: [保存配置]
+2016/7/6 14:45:19: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 14:45:19: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 14:45:19: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 14:45:19: 复制完成, 共复制文件 2 个，耗时 00:00:00.0864295
+/************************************************************************************/
+
+2016/7/6 15:15:11: [保存配置]
+2016/7/6 15:15:11: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 15:15:11: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 15:15:11: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 15:15:11: 复制完成, 共复制文件 2 个，耗时 00:00:00.0397655
+/************************************************************************************/
+
+2016/7/6 16:48:06: [保存配置]
+2016/7/6 16:48:06: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 16:48:06: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 16:48:06: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/6 16:48:06: 复制完成, 共复制文件 2 个，耗时 00:00:00.0491443
+/************************************************************************************/
+
+2016/7/6 16:48:13: [保存配置]
+2016/7/6 16:48:13: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 16:48:13: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 16:48:13: 复制完成, 共复制文件 1 个，耗时 00:00:00.0050235
+/************************************************************************************/
+
+2016/7/6 17:38:30: [保存配置]
+2016/7/6 17:38:30: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 17:38:30: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 17:38:30: 复制完成, 共复制文件 1 个，耗时 00:00:00.0019761
+/************************************************************************************/
+
+2016/7/6 17:41:13: [保存配置]
+2016/7/6 17:41:13: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 17:41:13: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 17:41:13: 复制完成, 共复制文件 1 个，耗时 00:00:00.0029982
+/************************************************************************************/
+
+2016/7/6 18:05:36: [保存配置]
+2016/7/6 18:05:36: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:05:36: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:05:36: 复制完成, 共复制文件 1 个，耗时 00:00:00.0017503
+/************************************************************************************/
+
+2016/7/6 18:12:04: [保存配置]
+2016/7/6 18:12:04: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:12:04: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:12:04: 复制完成, 共复制文件 1 个，耗时 00:00:00.1394398
+/************************************************************************************/
+
+2016/7/6 18:12:49: [保存配置]
+2016/7/6 18:12:49: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:12:49: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:12:49: 复制完成, 共复制文件 1 个，耗时 00:00:00.0076647
+/************************************************************************************/
+
+2016/7/6 18:12:58: [保存配置]
+2016/7/6 18:12:58: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:12:58: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:12:58: 复制完成, 共复制文件 1 个，耗时 00:00:00.0062355
+/************************************************************************************/
+
+2016/7/6 18:17:11: [保存配置]
+2016/7/6 18:17:11: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:17:11: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:17:11: 复制完成, 共复制文件 1 个，耗时 00:00:00.0019154
+/************************************************************************************/
+
+2016/7/6 18:34:56: [保存配置]
+2016/7/6 18:34:56: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:34:56: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:34:56: 复制完成, 共复制文件 1 个，耗时 00:00:00.0053738
+/************************************************************************************/
+
+2016/7/6 18:45:24: [保存配置]
+2016/7/6 18:45:24: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:45:24: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:45:24: 复制完成, 共复制文件 1 个，耗时 00:00:00.0068958
+/************************************************************************************/
+
+2016/7/6 18:46:53: [保存配置]
+2016/7/6 18:46:53: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:46:53: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:46:53: 复制完成, 共复制文件 1 个，耗时 00:00:00.0064634
+/************************************************************************************/
+
+2016/7/6 18:48:42: [保存配置]
+2016/7/6 18:48:42: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/6 18:48:42: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/6 18:48:42: 复制完成, 共复制文件 1 个，耗时 00:00:00.0051698
+/************************************************************************************/
+
+2016/7/7 9:15:57: [读取配置]
+2016/7/7 9:15:57: [读取配置]
+2016/7/7 9:17:48: [读取配置]
+2016/7/7 9:17:50: [保存配置]
+2016/7/7 9:17:50: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 9:17:50: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 9:17:50: 复制完成, 共复制文件 1 个，耗时 00:00:00.4672700
+/************************************************************************************/
+
+2016/7/7 10:36:57: [保存配置]
+2016/7/7 10:36:57: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:36:57: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:36:57: 复制完成, 共复制文件 1 个，耗时 00:00:00.0671285
+/************************************************************************************/
+
+2016/7/7 10:39:01: [保存配置]
+2016/7/7 10:39:01: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:39:01: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:39:01: 复制完成, 共复制文件 1 个，耗时 00:00:00.0036940
+/************************************************************************************/
+
+2016/7/7 10:40:02: [保存配置]
+2016/7/7 10:40:02: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:40:02: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:40:02: 复制完成, 共复制文件 1 个，耗时 00:00:00.0034528
+/************************************************************************************/
+
+2016/7/7 10:44:19: [保存配置]
+2016/7/7 10:44:19: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:44:19: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:44:19: 复制完成, 共复制文件 1 个，耗时 00:00:00.0061987
+/************************************************************************************/
+
+2016/7/7 10:45:35: [保存配置]
+2016/7/7 10:45:35: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:45:35: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:45:35: 复制完成, 共复制文件 1 个，耗时 00:00:00.0039873
+/************************************************************************************/
+
+2016/7/7 10:46:04: [保存配置]
+2016/7/7 10:46:04: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:46:04: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:46:04: 复制完成, 共复制文件 1 个，耗时 00:00:00.0033065
+/************************************************************************************/
+
+2016/7/7 10:46:06: [保存配置]
+2016/7/7 10:46:06: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:46:06: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:46:06: 复制完成, 共复制文件 1 个，耗时 00:00:00.0061589
+/************************************************************************************/
+
+2016/7/7 10:46:41: [保存配置]
+2016/7/7 10:46:41: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:46:41: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:46:41: 复制完成, 共复制文件 1 个，耗时 00:00:00.0052057
+/************************************************************************************/
+
+2016/7/7 10:46:50: [保存配置]
+2016/7/7 10:46:50: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 10:46:50: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 10:46:50: 复制完成, 共复制文件 1 个，耗时 00:00:00.0022643
+/************************************************************************************/
+
+2016/7/7 11:14:36: [保存配置]
+2016/7/7 11:14:36: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 11:14:36: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 11:14:36: 复制完成, 共复制文件 1 个，耗时 00:00:00.0039257
+/************************************************************************************/
+
+2016/7/7 13:17:39: [读取配置]
+2016/7/7 13:17:43: [读取配置]
+2016/7/7 18:35:49: [读取配置]
+2016/7/7 18:35:49: [读取配置]
+2016/7/7 18:35:52: [读取配置]
+2016/7/7 18:35:53: [保存配置]
+2016/7/7 18:35:53: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 18:35:53: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 18:35:53: 复制完成, 共复制文件 1 个，耗时 00:00:00.0748317
+/************************************************************************************/
+
+2016/7/7 20:24:10: [读取配置]
+2016/7/7 20:24:10: [读取配置]
+2016/7/7 20:24:25: [读取配置]
+2016/7/7 20:24:27: [保存配置]
+2016/7/7 20:24:27: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 20:24:27: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/7 20:24:28: 复制完成, 共复制文件 1 个，耗时 00:00:00.0318271
+/************************************************************************************/
+
+2016/7/7 20:48:56: [读取配置]
+2016/7/7 20:48:56: [读取配置]
+2016/7/7 20:48:59: [读取配置]
+2016/7/7 21:06:59: [读取配置]
+2016/7/7 21:06:59: [读取配置]
+2016/7/7 21:07:07: [保存配置]
+2016/7/7 21:07:07: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/7 21:07:07: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/7 21:07:07: 复制完成, 共复制文件 2 个，耗时 00:00:00.2776343
+/************************************************************************************/
+
+2016/7/7 21:07:30: [读取配置]
+2016/7/7 21:07:30: [读取配置]
+2016/7/7 21:22:52: [读取配置]
+2016/7/7 21:22:52: [读取配置]
+2016/7/7 21:22:56: [读取配置]
+2016/7/8 9:00:44: [读取配置]
+2016/7/8 9:00:44: [读取配置]
+2016/7/8 9:00:48: [读取配置]
+2016/7/8 9:02:32: [保存配置]
+2016/7/8 9:02:32: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 9:02:32: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 9:02:32: 复制完成, 共复制文件 1 个，耗时 00:00:00.1208820
+/************************************************************************************/
+
+2016/7/8 10:11:06: [读取配置]
+2016/7/8 10:11:06: [读取配置]
+2016/7/8 10:11:09: [读取配置]
+2016/7/8 10:11:15: [保存配置]
+2016/7/8 10:11:15: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 10:11:15: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 10:11:15: 复制完成, 共复制文件 1 个，耗时 00:00:00.0417361
+/************************************************************************************/
+
+2016/7/8 10:19:12: [读取配置]
+2016/7/8 10:19:12: [读取配置]
+2016/7/8 10:19:15: [读取配置]
+2016/7/8 10:19:17: [保存配置]
+2016/7/8 10:19:17: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 10:19:17: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 10:19:17: 复制完成, 共复制文件 1 个，耗时 00:00:00.0891613
+/************************************************************************************/
+
+2016/7/8 10:19:45: [读取配置]
+2016/7/8 10:19:45: [读取配置]
+2016/7/8 10:19:48: [读取配置]
+2016/7/8 10:19:49: [保存配置]
+2016/7/8 10:29:53: [读取配置]
+2016/7/8 10:29:54: [读取配置]
+2016/7/8 10:29:55: [读取配置]
+2016/7/8 10:40:58: [保存配置]
+2016/7/8 10:40:58: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 10:40:58: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 10:40:58: 复制完成, 共复制文件 1 个，耗时 00:00:00.0397373
+/************************************************************************************/
+
+2016/7/8 11:55:44: [读取配置]
+2016/7/8 11:55:44: [读取配置]
+2016/7/8 11:55:47: [读取配置]
+2016/7/8 12:35:02: [读取配置]
+2016/7/8 12:35:02: [读取配置]
+2016/7/8 12:35:05: [读取配置]
+2016/7/8 12:35:10: [保存配置]
+2016/7/8 12:35:10: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 12:35:10: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 12:35:10: 复制完成, 共复制文件 1 个，耗时 00:00:00.1905111
+/************************************************************************************/
+
+2016/7/8 12:37:42: [保存配置]
+2016/7/8 12:37:42: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 12:37:42: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 12:37:42: 复制完成, 共复制文件 1 个，耗时 00:00:00.0295638
+/************************************************************************************/
+
+2016/7/8 12:40:09: [保存配置]
+2016/7/8 12:40:09: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 12:40:09: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 12:40:09: 复制完成, 共复制文件 1 个，耗时 00:00:00.0713308
+/************************************************************************************/
+
+2016/7/8 12:42:14: [保存配置]
+2016/7/8 12:42:14: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 12:42:14: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 12:42:14: 复制完成, 共复制文件 1 个，耗时 00:00:00.0300218
+/************************************************************************************/
+
+2016/7/8 12:45:48: [保存配置]
+2016/7/8 12:45:48: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 12:45:48: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 12:45:48: 复制完成, 共复制文件 1 个，耗时 00:00:00.0252711
+/************************************************************************************/
+
+2016/7/8 13:12:43: [读取配置]
+2016/7/8 13:12:43: [读取配置]
+2016/7/8 13:12:45: [读取配置]
+2016/7/8 13:12:46: [保存配置]
+2016/7/8 13:12:46: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:12:46: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:12:46: 复制完成, 共复制文件 1 个，耗时 00:00:00.0641926
+/************************************************************************************/
+
+2016/7/8 13:14:57: [读取配置]
+2016/7/8 13:14:57: [读取配置]
+2016/7/8 13:14:59: [读取配置]
+2016/7/8 13:15:00: [保存配置]
+2016/7/8 13:15:00: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:15:00: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:15:00: 复制完成, 共复制文件 1 个，耗时 00:00:00.0503866
+/************************************************************************************/
+
+2016/7/8 13:18:31: [读取配置]
+2016/7/8 13:18:31: [读取配置]
+2016/7/8 13:18:33: [读取配置]
+2016/7/8 13:18:34: [保存配置]
+2016/7/8 13:18:34: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:18:34: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:18:34: 复制完成, 共复制文件 1 个，耗时 00:00:00.0857749
+/************************************************************************************/
+
+2016/7/8 13:19:43: [读取配置]
+2016/7/8 13:19:43: [读取配置]
+2016/7/8 13:19:46: [读取配置]
+2016/7/8 13:19:47: [保存配置]
+2016/7/8 13:19:47: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:19:47: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:19:47: 复制完成, 共复制文件 1 个，耗时 00:00:00.0490720
+/************************************************************************************/
+
+2016/7/8 13:21:10: [读取配置]
+2016/7/8 13:21:10: [读取配置]
+2016/7/8 13:21:12: [读取配置]
+2016/7/8 13:21:13: [保存配置]
+2016/7/8 13:21:13: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:21:13: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:21:13: 复制完成, 共复制文件 1 个，耗时 00:00:00.0486384
+/************************************************************************************/
+
+2016/7/8 13:21:25: [保存配置]
+2016/7/8 13:21:25: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll1
+2016/7/8 13:21:25: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:21:25: 复制完成, 共复制文件 1 个，耗时 00:00:00.0188761
+/************************************************************************************/
+
+2016/7/8 13:21:34: [保存配置]
+2016/7/8 13:21:34: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:21:34: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:21:34: 复制完成, 共复制文件 1 个，耗时 00:00:00.0230225
+/************************************************************************************/
+
+2016/7/8 13:32:17: [读取配置]
+2016/7/8 13:32:17: [读取配置]
+2016/7/8 13:32:19: [读取配置]
+2016/7/8 13:32:20: [保存配置]
+2016/7/8 13:32:20: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:32:20: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:32:20: 复制完成, 共复制文件 1 个，耗时 00:00:00.0843966
+/************************************************************************************/
+
+2016/7/8 13:32:58: [读取配置]
+2016/7/8 13:32:58: [读取配置]
+2016/7/8 13:33:00: [读取配置]
+2016/7/8 13:33:03: [保存配置]
+2016/7/8 13:33:03: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:33:03: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:33:03: 复制完成, 共复制文件 1 个，耗时 00:00:00.0372045
+/************************************************************************************/
+
+2016/7/8 13:33:39: [读取配置]
+2016/7/8 13:33:39: [读取配置]
+2016/7/8 13:33:41: [读取配置]
+2016/7/8 13:33:41: [保存配置]
+2016/7/8 13:33:41: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:33:41: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:33:41: 复制完成, 共复制文件 1 个，耗时 00:00:00.0470112
+/************************************************************************************/
+
+2016/7/8 13:35:09: [读取配置]
+2016/7/8 13:35:09: [读取配置]
+2016/7/8 13:46:38: [读取配置]
+2016/7/8 13:46:38: [读取配置]
+2016/7/8 13:46:41: [读取配置]
+2016/7/8 13:46:42: [保存配置]
+2016/7/8 13:46:43: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:46:43: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:46:43: 复制完成, 共复制文件 1 个，耗时 00:00:00.7263637
+/************************************************************************************/
+
+2016/7/8 13:46:58: [保存配置]
+2016/7/8 13:46:58: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:46:58: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:46:58: 复制完成, 共复制文件 1 个，耗时 00:00:00.0254924
+/************************************************************************************/
+
+2016/7/8 13:47:37: [读取配置]
+2016/7/8 13:47:37: [读取配置]
+2016/7/8 13:47:40: [读取配置]
+2016/7/8 13:47:41: [保存配置]
+2016/7/8 13:47:41: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:47:41: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:47:41: 复制完成, 共复制文件 1 个，耗时 00:00:00.0629782
+/************************************************************************************/
+
+2016/7/8 13:47:45: [保存配置]
+2016/7/8 13:48:29: [读取配置]
+2016/7/8 13:48:29: [读取配置]
+2016/7/8 13:48:30: [读取配置]
+2016/7/8 13:48:31: [保存配置]
+2016/7/8 13:48:31: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:48:31: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:48:31: 复制完成, 共复制文件 1 个，耗时 00:00:00.0478947
+/************************************************************************************/
+
+2016/7/8 13:48:33: [保存配置]
+2016/7/8 13:48:33: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 13:48:33: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 13:48:33: 复制完成, 共复制文件 1 个，耗时 00:00:00.0091730
+/************************************************************************************/
+
+2016/7/8 13:51:34: [读取配置]
+2016/7/8 13:51:34: [读取配置]
+2016/7/8 13:51:36: [读取配置]
+2016/7/8 14:07:25: [保存配置]
+2016/7/8 14:07:25: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:07:25: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 14:07:25: 复制完成, 共复制文件 1 个，耗时 00:00:00.0292754
+/************************************************************************************/
+
+2016/7/8 14:09:54: [保存配置]
+2016/7/8 14:09:54: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:09:54: [按文件名] 从文件E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 复制到E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 14:09:54: 复制完成, 共复制文件 1 个，耗时 00:00:00.0271654
+/************************************************************************************/
+
+2016/7/8 14:13:51: [读取配置]
+2016/7/8 14:13:51: [读取配置]
+2016/7/8 14:13:55: [保存配置]
+2016/7/8 14:13:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:13:56: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/8 14:13:56: 复制完成, 共复制文件 2 个，耗时 00:00:00.3200923
+/************************************************************************************/
+
+2016/7/8 14:14:29: [保存配置]
+2016/7/8 14:14:29: [文件不存在] E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll1
+2016/7/8 14:14:29: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:14:29: 复制完成, 共复制文件 1 个，耗时 00:00:00.0549842
+/************************************************************************************/
+
+2016/7/8 14:15:59: [读取配置]
+2016/7/8 14:15:59: [读取配置]
+2016/7/8 14:16:02: [保存配置]
+2016/7/8 14:16:02: [文件不存在] E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll1
+2016/7/8 14:16:02: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:16:02: 复制完成, 共复制文件 1 个，耗时 00:00:00.0870287
+/************************************************************************************/
+
+2016/7/8 14:16:06: [保存配置]
+2016/7/8 14:16:06: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\AntibioticModule\bin\Debug\AntibioticModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\AntibioticModule.dll
+2016/7/8 14:16:06: [按文件名] 从文件E:\WorkSpace\workspace\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll, 复制到E:\WorkSpace\workspace\CS结构\ServiceModule\ClientFrame\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:16:06: 复制完成, 共复制文件 2 个，耗时 00:00:00.0147743
+/************************************************************************************/
+

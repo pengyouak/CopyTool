@@ -128,7 +128,12 @@ namespace CopyTool
 
         private void ShowLog(string msg,int index)
         {
-            lsvLog.UpdateUI(()=>lsvLog.Items.Add(new ListViewItem(msg, index)));
+            lsvLog.UpdateUI(()=>lsvLog.Items.Insert(0,new ListViewItem(msg)
+            {
+                ImageIndex =index,
+                BackColor = index == 2?Color.DarkRed:Color.DarkGreen,
+                ForeColor=Color.LightGray
+            }));
         }
 
         private void SaveInfo()
@@ -165,9 +170,11 @@ namespace CopyTool
         }
         private void Copy(List<string> sourceDir,string dir,System.Threading.CancellationToken token)
         {
+            lsvLog.UpdateUI(()=>lsvLog.Items.Clear());
             int count = 0;
             var stopwatch = new System.Diagnostics.Stopwatch();
             stopwatch.Start();
+            ShowLog(DateTime.Now + ": 开始复制文件...", 3);
             sourceDir.AsParallel().ForAll(file => {
                 if (file.IndexOf("\\") < 0)
                     return;
@@ -229,7 +236,7 @@ namespace CopyTool
                         }
                         else
                         {
-                            ShowLog(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]),0);
+                            ShowLog(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]),2);
                             System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件不存在] {0}", path + tmpFile[i]));
                         }
                     }
@@ -243,7 +250,7 @@ namespace CopyTool
                         {
                             stopwatch.Stop();
                             UpdateStatus("");
-                            ShowLog(DateTime.Now + string.Format(": 复制完成, 共复制文件 {0} 个，耗时 {1}", count, stopwatch.Elapsed.Duration()),1);
+                            ShowLog(DateTime.Now + string.Format(": 复制完成, 共复制文件 {0} 个，耗时 {1}", count, stopwatch.Elapsed.Duration()),0);
                             System.Diagnostics.Debug.WriteLine(DateTime.Now + string.Format(": 复制完成, 共复制文件 {0} 个，耗时 {1}\r\n/************************************************************************************/\r\n",count,stopwatch.Elapsed.Duration()));
                             MessageBox.Show("复制完成");
                             progressBar1.Value = 0;
