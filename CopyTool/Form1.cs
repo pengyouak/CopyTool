@@ -202,12 +202,12 @@ namespace CopyTool
                                     UpdateStatus(string.Format("正在复制 {0}", f));
                                     var tmp = new System.IO.FileInfo(f);
                                     System.IO.File.Copy(f, dir + "\\" + tmp.Name, true);
-                                    ShowLog(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name),1);
+                                    ShowLog(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name),1,tmp.DirectoryName);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按扩展名] 从文件{0}, 复制到{1}", f, dir + "\\" + tmp.Name));
                                 }
                                 catch (Exception ex)
                                 {
-                                    ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f),2, dir);
+                                    ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f),2, new System.IO.FileInfo(f).DirectoryName);
                                     System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f));
                                 }
                             }
@@ -226,7 +226,7 @@ namespace CopyTool
                             {
                                 UpdateStatus(string.Format("正在复制 {0}", path + tmpFile[i]));
                                 System.IO.File.Copy(path + tmpFile[i], dir + "\\" + tmpFile[i], true);
-                                ShowLog(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]),1);
+                                ShowLog(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]),1, path);
                                 System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                             catch (Exception ex)
@@ -295,7 +295,7 @@ namespace CopyTool
         {
             if (lsvLog.SelectedItems.Count == 0)
                 return;
-            if (lsvLog.SelectedItems[0].Tag.ToString().Length == 0)
+            if (lsvLog.SelectedItems[0].Tag==null||lsvLog.SelectedItems[0].Tag.ToString().Length == 0)
                 return;
             try
             {
