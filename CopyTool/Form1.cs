@@ -206,14 +206,14 @@ namespace CopyTool
                                 }
                                 catch (Exception ex)
                                 {
-                                    ShowLog(DateTime.Now + string.Format(": [文件异常] {0}, 来自{1}", ex.Message, f),2);
-                                    System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件异常] {0}, 来自{1}", ex.Message, f));
+                                    ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f),2);
+                                    System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自{1}", ex.Message, f));
                                 }
                             }
                         }
                         catch (Exception ex){
-                            ShowLog(DateTime.Now + string.Format(": [目录异常] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]),2);
-                            System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [目录异常] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]));
+                            ShowLog(DateTime.Now + string.Format(": [目录不存在] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]),2);
+                            System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [目录不存在] {0}, 来自目录{1}, 扩展名{2}", ex.Message, path, tmpFile[i]));
                         }
                     }
                     else
@@ -230,8 +230,8 @@ namespace CopyTool
                             }
                             catch (Exception ex)
                             {
-                                ShowLog(DateTime.Now + string.Format(": [文件异常] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]),2);
-                                System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件异常] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]));
+                                ShowLog(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]),2);
+                                System.Diagnostics.Trace.WriteLine(DateTime.Now + string.Format(": [文件被占用或无权限] {0}, 来自源目录{1}, 目标目录{2}", ex.Message, path + tmpFile[i], dir + "\\" + tmpFile[i]));
                             }
                         }
                         else

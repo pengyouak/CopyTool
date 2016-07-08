@@ -1327,3 +1327,18 @@
 2016/7/8 14:16:06: 复制完成, 共复制文件 2 个，耗时 00:00:00.0147743
 /************************************************************************************/
 
+2016/7/8 14:16:43: [读取配置]
+2016/7/8 14:16:43: [读取配置]
+2016/7/8 14:17:22: [读取配置]
+2016/7/8 14:17:23: [保存配置]
+2016/7/8 14:17:23: [文件不存在] E:\WorkSpace\workspace_ah\CS结构\ServiceModule\PrescriptReviewModule\bin\Debug\PrescriptReviewModule.dll
+2016/7/8 14:17:23: [文件异常] 文件“E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll”正由另一进程使用，因此该进程无法访问此文件。, 来自源目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\CloudRDUModule\bin\Debug\CloudRDUModule.dll, 目标目录E:\WorkSpace\workspace_ah\CS结构\ServiceModule\ClientFrame\bin\Debug\CloudRDUModule.dll
+2016/7/8 14:17:23: 复制完成, 共复制文件 1 个，耗时 00:00:00.0759363
+/************************************************************************************/
+
+2016/7/8 14:21:34: [读取配置]
+2016/7/8 14:21:34: [读取配置]
+2016/7/8 14:24:38: [读取配置]
+2016/7/8 14:24:38: [读取配置]
+2016/7/8 14:25:01: [读取配置]
+2016/7/8 14:25:01: [读取配置]
