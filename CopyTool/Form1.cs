@@ -196,9 +196,10 @@ namespace CopyTool
                             {
                                 if (token.IsCancellationRequested)
                                     break;
-                                System.Threading.Interlocked.Add(ref count, 1);
                                 try
                                 {
+                                    System.Threading.Interlocked.Add(ref count, 1);
+
                                     UpdateStatus(string.Format("正在复制 {0}", f));
                                     var tmp = new System.IO.FileInfo(f);
                                     System.IO.File.Copy(f, dir + "\\" + tmp.Name, true);
@@ -221,9 +222,10 @@ namespace CopyTool
                     {
                         if (System.IO.File.Exists(path + tmpFile[i]))
                         {
-                            System.Threading.Interlocked.Add(ref count, 1);
                             try
                             {
+                                System.Threading.Interlocked.Add(ref count, 1);
+
                                 UpdateStatus(string.Format("正在复制 {0}", path + tmpFile[i]));
                                 System.IO.File.Copy(path + tmpFile[i], dir + "\\" + tmpFile[i], true);
                                 ShowLog(DateTime.Now + string.Format(": [按文件名] 从文件{0}, 复制到{1}", path + tmpFile[i], dir + "\\" + tmpFile[i]),1, path);
