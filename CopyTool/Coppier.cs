@@ -73,7 +73,6 @@ namespace CopyTool
         public void Copy(IEnumerable<string> path, string topath,System.Threading.CancellationToken token)
         {
             CopyDirCount = path.ToArray().Length;
-            int c = 0;
             //path.AsParallel().ForAll(p=> {
             foreach(string p in path) {
                 if (token.IsCancellationRequested)
@@ -106,7 +105,6 @@ namespace CopyTool
                         }
                     }
                 }
-                System.Threading.Interlocked.Add(ref c, 1);
             };
             OnCompletedCopy?.Invoke(this, null);
             //);
