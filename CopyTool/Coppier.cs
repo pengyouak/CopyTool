@@ -47,13 +47,15 @@ namespace CopyTool
 
         public void Copy(string path,string topath)
         {
-            var copyInfo = new CoppierInfo {
-                FileInfo = new System.IO.FileInfo(path),
-                FileToInfo = new System.IO.FileInfo(topath),
-                IsSuccess = false
-            };
-            OnProcReport?.Invoke(this, copyInfo);
+            CoppierInfo copyInfo=null;
             try {
+                copyInfo = new CoppierInfo
+                {
+                    FileInfo = new System.IO.FileInfo(path),
+                    FileToInfo = new System.IO.FileInfo(topath),
+                    IsSuccess = false
+                };
+                OnProcReport?.Invoke(this, copyInfo);
                 OnCoping?.Invoke(this, copyInfo);
                 System.IO.File.Copy(path, topath, true);
                 copyInfo.IsSuccess = true;

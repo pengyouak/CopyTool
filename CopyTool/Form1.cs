@@ -169,6 +169,7 @@ namespace CopyTool
             var param = obj as CopyTaskParam;
             Copy(param.FileList, param.CopyToDir,param.CancelToken);
         }
+
         private void Copy(List<string> sourceDir,string dir,System.Threading.CancellationToken token)
         {
             lsvLog.UpdateUI(()=>lsvLog.Items.Clear());
